@@ -26,3 +26,9 @@ Este repositorio contiene el sitio web de LabTest Solutions S.L., una empresa de
 2. Abre la carpeta del proyecto.
 3. Haz doble clic sobre el archivo index.html.
 4. La página web de abrirá en tu navegador.
+
+## Página web publicada
+
+Puedes visitar nuestra página web en:
+
+https://ecrespo91.github.io/ed-git-website/
