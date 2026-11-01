@@ -9,15 +9,13 @@ body {
 
 /* Estilo del encabezado principal */
 
-h1 {
+h1, h2 {
 	color: #1677a8;
-	text-align: center;
 }
 
 /* Estilo de los párrafos */
 
-p {
+p, li {
 	font-size: 18px;
 	line-height: 1.6;
-	text-align: center;
 }
